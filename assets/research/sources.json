@@ -19,15 +19,16 @@
     "image": "assets/research/control-and-decision-making.png",
     "source": "https://doi.org/10.1016/j.automatica.2023.111047",
     "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
-    "page": 10,
+    "page": 6,
     "crop_points": [
-      50,
-      375,
-      280,
-      489
+      93,
+      72,
+      244,
+      101
     ],
-    "figure": "Figure 2",
-    "publication_count": 6
+    "figure": "Figure 1",
+    "publication_count": 6,
+    "source_version": "Author manuscript"
   },
   {
     "topic": "Physics-informed modeling",
@@ -79,31 +80,27 @@
   {
     "topic": "High-performance control",
     "image": "assets/research/high-precision-control.png",
-    "source": "https://doi.org/10.1016/j.automatica.2023.111047",
-    "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
-    "page": 10,
+    "source": "https://doi.org/10.1016/j.automatica.2023.111335",
+    "paper": "On Kernel Design for Regularized Non-Causal System Identification",
+    "page": 4,
     "crop_points": [
-      314,
-      247,
-      525,
-      363
+      49,
+      72,
+      274,
+      110
     ],
-    "figure": "Figure 4",
-    "publication_count": 20
+    "figure": "Figure 1",
+    "publication_count": 20,
+    "source_version": "Author manuscript"
   },
   {
     "topic": "Spatiotemporal data modeling",
-    "image": "assets/research/spatiotemporal-data.png",
-    "source": "https://doi.org/10.1016/j.automatica.2022.110679",
-    "paper": "An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications",
-    "page": 10,
-    "crop_points": [
-      382,
-      225,
-      535,
-      323
-    ],
-    "figure": "Figure 4(c)",
-    "publication_count": 7
+    "image": "assets/research/spatiotemporal-workflow.jpg",
+    "source": "https://doi.org/10.1016/j.asoc.2021.107663",
+    "paper": "Bus Arrival Time Prediction and Reliability Analysis: An Experimental Comparison of Functional Data Analysis and Bayesian Support Vector Regression",
+    "figure": "Figure 2",
+    "publication_count": 7,
+    "source_version": "Publisher figure",
+    "figure_source": "https://ars.els-cdn.com/content/image/1-s2.0-S1568494621005846-gr2_lrg.jpg"
   }
 ]
