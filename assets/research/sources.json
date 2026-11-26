@@ -61,18 +61,19 @@
   },
   {
     "topic": "Algorithms exploiting rank-structured matrices",
-    "image": "assets/research/rank-structured-matrices.png",
-    "source": "https://backend.orbit.dtu.dk/ws/files/350307966/Efficient_Implementation_with_Periodic_Input.pdf#page=9",
-    "paper": "An Efficient Implementation for Kernel-based Regularized System Identification with Periodic Input Signals",
-    "page": 9,
+    "image": "assets/research/hodlr-matrix-partition.png",
+    "source": "https://doi.org/10.1016/j.ifacol.2024.08.516",
+    "paper": "An Efficient Implementation for Regularized Frequency Response Function and Transient Estimation",
+    "page": 3,
     "crop_points": [
-      100,
-      222,
-      247,
-      335
+      392,
+      79,
+      469,
+      155
     ],
-    "figure": "Efficiency comparison, panel (b)",
-    "publication_count": 13
+    "figure": "Figure 1",
+    "publication_count": 13,
+    "source_version": "Author manuscript"
   },
   {
     "topic": "High-performance control",
