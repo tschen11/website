@@ -142,3 +142,7 @@ nav a[aria-current="page"] { font-weight: 700; }
   .research-description { font-size: .9rem; overflow-wrap: anywhere; }
   .research-figure { max-width: 30rem; }
 }
+
+/* Slightly smaller temperature plot, with its original aspect ratio. */
+.research-grid .research-image-compact { width: 85%; margin-inline: auto; }
+.topic-intro .research-image-compact { max-width: min(85%, 24rem); max-height: 15rem; }
