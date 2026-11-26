@@ -47,17 +47,18 @@
   {
     "topic": "Statistical theory",
     "image": "assets/research/statistical-theory.png",
-    "source": "https://doi.org/10.1109/tac.2023.3259977",
-    "paper": "Asymptotic Theory for Regularized System Identification Part I: Empirical Bayes Hyper-parameter Estimator",
-    "page": 12,
+    "source": "https://skoge.folk.ntnu.no/prost/proceedings/ifac2026_IFACWC26_preprints/IFAC26_ContentListMedia_4.html#tha02_09",
+    "paper": "Revisiting the Asymptotic Theory of FIR Model Estimation Under A More Realistic Asymptotic Setup",
+    "page": 4,
     "crop_points": [
-      105,
-      48,
-      290,
-      176.333333
+      311,
+      73,
+      422,
+      164
     ],
-    "figure": "Figure 3(a), panel label removed",
-    "publication_count": 24
+    "figure": "Figure 1(a), caption and panel label removed",
+    "publication_count": 24,
+    "source_version": "IFAC World Congress 2026 preprint"
   },
   {
     "topic": "Algorithms exploiting rank-structured matrices",
