@@ -2,7 +2,7 @@
   {
     "topic": "Data-driven modeling",
     "image": "assets/research/data-driven-modeling.png",
-    "source": "files/unified-view-system-identification-learning-era.pdf#page=42",
+    "source": "https://www.nature.com/articles/s44287-026-00345-z",
     "paper": "A unified view of system identification in the learning era",
     "page": 42,
     "crop_points": [
@@ -17,7 +17,7 @@
   {
     "topic": "Data-driven control and decision-making",
     "image": "assets/research/control-and-decision-making.png",
-    "source": "https://arxiv.org/pdf/2303.03822#page=10",
+    "source": "https://doi.org/10.1016/j.automatica.2023.111047",
     "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
     "page": 10,
     "crop_points": [
@@ -32,7 +32,7 @@
   {
     "topic": "Physics-informed modeling",
     "image": "assets/research/physics-informed-modeling.png",
-    "source": "files/unified-view-system-identification-learning-era.pdf#page=43",
+    "source": "https://www.nature.com/articles/s44287-026-00345-z",
     "paper": "A unified view of system identification in the learning era",
     "page": 43,
     "crop_points": [
@@ -47,7 +47,7 @@
   {
     "topic": "Statistical theory",
     "image": "assets/research/statistical-theory.png",
-    "source": "https://arxiv.org/pdf/2209.12231#page=12",
+    "source": "https://doi.org/10.1109/tac.2023.3259977",
     "paper": "Asymptotic Theory for Regularized System Identification Part I: Empirical Bayes Hyper-parameter Estimator",
     "page": 12,
     "crop_points": [
@@ -78,7 +78,7 @@
   {
     "topic": "High-performance control",
     "image": "assets/research/high-precision-control.png",
-    "source": "https://arxiv.org/pdf/2303.03822#page=10",
+    "source": "https://doi.org/10.1016/j.automatica.2023.111047",
     "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
     "page": 10,
     "crop_points": [
@@ -93,7 +93,7 @@
   {
     "topic": "Spatiotemporal data modeling",
     "image": "assets/research/spatiotemporal-data.png",
-    "source": "https://arxiv.org/pdf/2209.12565#page=10",
+    "source": "https://doi.org/10.1016/j.automatica.2022.110679",
     "paper": "An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications",
     "page": 10,
     "crop_points": [
