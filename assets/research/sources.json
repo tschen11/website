@@ -1,0 +1,107 @@
+[
+  {
+    "topic": "Data-driven modeling",
+    "image": "assets/research/data-driven-modeling.png",
+    "source": "files/unified-view-system-identification-learning-era.pdf#page=42",
+    "paper": "A unified view of system identification in the learning era",
+    "page": 42,
+    "crop_points": [
+      112,
+      133,
+      507,
+      379
+    ],
+    "figure": "Figure 2",
+    "publication_count": 23
+  },
+  {
+    "topic": "Data-driven control and decision-making",
+    "image": "assets/research/control-and-decision-making.png",
+    "source": "https://arxiv.org/pdf/2303.03822#page=10",
+    "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
+    "page": 10,
+    "crop_points": [
+      50,
+      375,
+      280,
+      489
+    ],
+    "figure": "Figure 2",
+    "publication_count": 6
+  },
+  {
+    "topic": "Physics-informed modeling",
+    "image": "assets/research/physics-informed-modeling.png",
+    "source": "files/unified-view-system-identification-learning-era.pdf#page=43",
+    "paper": "A unified view of system identification in the learning era",
+    "page": 43,
+    "crop_points": [
+      100,
+      128,
+      471,
+      346
+    ],
+    "figure": "Figure 3",
+    "publication_count": 10
+  },
+  {
+    "topic": "Statistical theory",
+    "image": "assets/research/statistical-theory.png",
+    "source": "https://arxiv.org/pdf/2209.12231#page=12",
+    "paper": "Asymptotic Theory for Regularized System Identification Part I: Empirical Bayes Hyper-parameter Estimator",
+    "page": 12,
+    "crop_points": [
+      105,
+      48,
+      500,
+      193
+    ],
+    "figure": "Figure 3",
+    "publication_count": 24
+  },
+  {
+    "topic": "Algorithms exploiting rank-structured matrices",
+    "image": "assets/research/rank-structured-matrices.png",
+    "source": "https://backend.orbit.dtu.dk/ws/files/350307966/Efficient_Implementation_with_Periodic_Input.pdf#page=9",
+    "paper": "An Efficient Implementation for Kernel-based Regularized System Identification with Periodic Input Signals",
+    "page": 9,
+    "crop_points": [
+      100,
+      222,
+      247,
+      335
+    ],
+    "figure": "Efficiency comparison, panel (b)",
+    "publication_count": 13
+  },
+  {
+    "topic": "High-performance control",
+    "image": "assets/research/high-precision-control.png",
+    "source": "https://arxiv.org/pdf/2303.03822#page=10",
+    "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
+    "page": 10,
+    "crop_points": [
+      314,
+      247,
+      525,
+      363
+    ],
+    "figure": "Figure 4",
+    "publication_count": 20
+  },
+  {
+    "topic": "Spatiotemporal data modeling",
+    "image": "assets/research/spatiotemporal-data.png",
+    "source": "https://arxiv.org/pdf/2209.12565#page=10",
+    "paper": "An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications",
+    "page": 10,
+    "crop_points": [
+      382,
+      225,
+      535,
+      346
+    ],
+    "figure": "Figure 4(c)",
+    "publication_count": 7
+  }
+]
