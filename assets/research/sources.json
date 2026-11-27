@@ -79,19 +79,19 @@
   },
   {
     "topic": "Control applications",
-    "image": "assets/research/high-precision-control.png",
-    "source": "https://doi.org/10.1016/j.automatica.2023.111335",
-    "paper": "On Kernel Design for Regularized Non-Causal System Identification",
-    "page": 4,
-    "crop_points": [
-      49,
-      72,
-      274,
-      110
-    ],
-    "figure": "Figure 1",
+    "image": "assets/research/control-applications-aqualux.png",
+    "source": "https://arxiv.org/abs/2609.06450",
+    "paper": "PLATO: Preintegration Learning from Accurate Trajectory Observations for Neural Inertial Odometry",
+    "page": 7,
+    "figure": "Figure 3(a), panel label cropped out",
     "publication_count": 20,
-    "source_version": "Author manuscript"
+    "source_version": "arXiv manuscript",
+    "crop_pixels_at_page_height_3600": [
+      500,
+      324,
+      1080,
+      590
+    ]
   },
   {
     "topic": "Spatiotemporal data modeling",
