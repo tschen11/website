@@ -37,10 +37,15 @@ async function run(responses) {
   assert.equal(restored.item.textContent,'Control');
   const online=await run([Error('offline'),Error('offline'),{country:'HK'}]);
   online.events.online();await settle();assert.equal(online.item.textContent,'High-performance control');
-  for(const name of ['index.html','biography.html','research.html','research-high-precision-control.html']) {
+  for(const name of ['index.html','biography.html']) {
     const html=fs.readFileSync(name,'utf8');
     assert(html.includes('research-region.js?v=wording-3'));
     assert(!html.includes('data-non-eu-only'));
+  }
+  for(const name of ['research.html','research-high-precision-control.html']) {
+    const html=fs.readFileSync(name,'utf8');
+    assert(html.includes('Control applications'));
+    assert(!html.includes('data-non-eu-text'));
   }
   console.log('Passed: all 27 EU countries, HK and other non-EU countries, fallback, failures, history restore, reconnection, and page integration.');
 })();
