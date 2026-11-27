@@ -169,3 +169,5 @@ nav a[aria-current="page"] { font-weight: 700; }
 }
 
 .software-resources .publication-resource { margin-inline-start: 0; }
+
+.publication-resources .publication-resource { margin-inline-start: 0; }
