@@ -95,12 +95,10 @@
   },
   {
     "topic": "Spatiotemporal data modeling",
-    "image": "assets/research/spatiotemporal-workflow.jpg",
-    "source": "https://doi.org/10.1016/j.asoc.2021.107663",
-    "paper": "Bus Arrival Time Prediction and Reliability Analysis: An Experimental Comparison of Functional Data Analysis and Bayesian Support Vector Regression",
-    "figure": "Figure 2",
+    "image": "assets/research/spatiotemporal-ring-heat.png",
+    "source": "RingHeat_SingleMode_SpaceTime_261102.pdf",
+    "page": 1,
     "publication_count": 7,
-    "source_version": "Publisher figure",
-    "figure_source": "https://ars.els-cdn.com/content/image/1-s2.0-S1568494621005846-gr2_lrg.jpg"
+    "source_version": "User-provided figure"
   }
 ]
