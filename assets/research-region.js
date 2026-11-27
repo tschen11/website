@@ -1,6 +1,6 @@
-// Visibility only: the static topic page and its source remain publicly accessible.
+// Use neutral wording by default, including when the IP-country lookup is unavailable.
 (async () => {
-  const items = document.querySelectorAll('[data-non-eu-only]');
+  const items = document.querySelectorAll('[data-non-eu-text]');
   if (!items.length) return;
 
   const controller = new AbortController();
@@ -16,10 +16,10 @@
     const location = await response.json();
     if (location.success === true && /^[A-Z]{2}$/.test(location.country_code)
         && location.is_eu === false) {
-      items.forEach(item => { item.hidden = false; });
+      items.forEach(item => { item.textContent = item.dataset.nonEuText; });
     }
   } catch {
-    // Keep the item hidden if the country cannot be determined.
+    // Keep the default "control" wording if the country cannot be determined.
   } finally {
     clearTimeout(timeout);
   }
