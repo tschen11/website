@@ -26,15 +26,7 @@
     "image": "assets/research/physics-informed-modeling-approaches.png",
     "source": "physics-informed-modeling-approaches.png",
     "publication_count": 10,
-    "source_version": "Original numerical illustrations of a DC prior, sparse pendulum dynamics, a passive parallel RC circuit, and graph-Laplacian regularization on a circular heat conductor. All example data are synthetic.",
-    "references": [
-      {
-        "panel": "Kernel design",
-        "title": "On the estimation of transfer functions, regularizations and Gaussian processes—Revisited",
-        "url": "https://doi.org/10.1016/j.automatica.2012.05.026",
-        "equation": "49b"
-      }
-    ]
+    "source_version": "Original numerical illustrations of a DC prior, sparse pendulum dynamics, a passive parallel RC circuit, and manifold regularization along one circular heat conductor at successive times. All example data are synthetic."
   },
   {
     "topic": "Statistical theory",
