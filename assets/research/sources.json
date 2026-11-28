@@ -79,19 +79,10 @@
   },
   {
     "topic": "Control applications",
-    "image": "assets/research/control-applications-aqualux.png",
-    "source": "https://arxiv.org/abs/2609.06450",
-    "paper": "PLATO: Preintegration Learning from Accurate Trajectory Observations for Neural Inertial Odometry",
-    "page": 7,
-    "figure": "Figure 3(a), panel label cropped out",
+    "image": "assets/research/underwater-robot-and-maze.png",
+    "source": "underwater-robot-and-maze.png",
     "publication_count": 20,
-    "source_version": "arXiv manuscript",
-    "crop_pixels_at_page_height_3600": [
-      500,
-      324,
-      1080,
-      590
-    ]
+    "source_version": "Composite of two user-provided photographs"
   },
   {
     "topic": "Spatiotemporal data modeling",
