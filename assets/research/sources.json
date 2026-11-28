@@ -16,19 +16,10 @@
   },
   {
     "topic": "Data-driven control and decision-making",
-    "image": "assets/research/control-and-decision-making.png",
-    "source": "https://doi.org/10.1016/j.automatica.2023.111047",
-    "paper": "Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems",
-    "page": 6,
-    "crop_points": [
-      93,
-      72,
-      244,
-      101
-    ],
-    "figure": "Figure 1",
+    "image": "assets/research/data-driven-control-block-diagram.png",
+    "source": "data-driven-control-block-diagram.png",
     "publication_count": 6,
-    "source_version": "Author manuscript"
+    "source_version": "Original block diagram generated with ImageGen"
   },
   {
     "topic": "Physics-informed modeling",
