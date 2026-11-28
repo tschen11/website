@@ -19,14 +19,14 @@
     "image": "assets/research/data-driven-control-block-diagram.png",
     "source": "data-driven-control-block-diagram.png",
     "publication_count": 6,
-    "source_version": "Original block diagram generated with ImageGen"
+    "source_version": "Original ImageGen block diagram showing feedback and online controller adaptation"
   },
   {
     "topic": "Physics-informed modeling",
     "image": "assets/research/physics-informed-modeling-approaches.png",
     "source": "physics-informed-modeling-approaches.png",
     "publication_count": 10,
-    "source_version": "Original diagram generated with ImageGen"
+    "source_version": "Original ImageGen illustration of four schematic examples of physics-informed modeling"
   },
   {
     "topic": "Statistical theory",
