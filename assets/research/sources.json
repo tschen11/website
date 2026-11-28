@@ -1,28 +1,6 @@
 [
   {
     "topic": "Data-driven modeling",
-    "image": "assets/research/data-driven-modeling.png",
-    "source": "https://www.nature.com/articles/s44287-026-00345-z",
-    "paper": "A unified view of system identification in the learning era",
-    "page": 42,
-    "crop_points": [
-      112,
-      133,
-      507,
-      379
-    ],
-    "figure": "Figure 2",
-    "publication_count": 23
-  },
-  {
-    "topic": "Data-driven control and decision-making",
-    "image": "assets/research/data-driven-control-block-diagram.png",
-    "source": "data-driven-control-block-diagram.png",
-    "publication_count": 6,
-    "source_version": "Original block diagram generated with ImageGen"
-  },
-  {
-    "topic": "Physics-informed modeling",
     "image": "assets/research/physics-informed-modeling.png",
     "source": "https://www.nature.com/articles/s44287-026-00345-z",
     "paper": "A unified view of system identification in the learning era",
@@ -34,7 +12,21 @@
       346
     ],
     "figure": "Figure 3",
-    "publication_count": 10
+    "publication_count": 23
+  },
+  {
+    "topic": "Data-driven control and decision-making",
+    "image": "assets/research/data-driven-control-block-diagram.png",
+    "source": "data-driven-control-block-diagram.png",
+    "publication_count": 6,
+    "source_version": "Original block diagram generated with ImageGen"
+  },
+  {
+    "topic": "Physics-informed modeling",
+    "image": "assets/research/physics-informed-modeling-approaches.png",
+    "source": "physics-informed-modeling-approaches.png",
+    "publication_count": 10,
+    "source_version": "Original diagram generated with ImageGen"
   },
   {
     "topic": "Statistical theory",
