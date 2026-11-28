@@ -19,7 +19,7 @@
     "image": "assets/research/data-driven-control-block-diagram.png",
     "source": "data-driven-control-block-diagram.png",
     "publication_count": 6,
-    "source_version": "Original ImageGen block diagram showing feedback and online controller adaptation"
+    "source_version": "Original vector schematic showing additive output disturbance, feedback of the measured output, and optional online adaptation from the applied input and measured output."
   },
   {
     "topic": "Physics-informed modeling",
